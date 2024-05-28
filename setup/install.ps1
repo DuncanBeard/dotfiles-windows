@@ -1,4 +1,4 @@
-$account = "jayharris"
+$account = "duncanbeard"
 $repo    = "dotfiles-windows"
 $branch  = "master"
 
